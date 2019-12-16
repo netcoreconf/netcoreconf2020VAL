@@ -1,0 +1,1 @@
+# netcoreconf2020VAL
